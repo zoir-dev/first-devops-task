@@ -1,0 +1,2 @@
+NAME       TYPE       CLUSTER-IP     EXTERNAL-IP   PORT(S)          AGE
+flaskapp   NodePort   10.233.44.65   <none>        5000:30936/TCP   22s

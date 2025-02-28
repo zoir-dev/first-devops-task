@@ -1,0 +1,2 @@
+NAME                 TYPE        CLUSTER-IP      EXTERNAL-IP   PORT(S)    AGE
+flaskapp-clusterip   ClusterIP   10.233.34.192   <none>        5000/TCP   29s
